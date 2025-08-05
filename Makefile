@@ -8,7 +8,7 @@ SRC_DIR = src
 BLD_DIR = build
 
 # executable
-TARGET = $(BLD_DIR)/easter
+TARGET = $(BLD_DIR)/eggku
 
 # sources
 SRC = $(wildcard $(SRC_DIR)/*.c)
