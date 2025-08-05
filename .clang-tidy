@@ -1,0 +1,15 @@
+---
+Checks: 'clang-diagnostic-*,clang-analyzer-*,bugprone-*,misc-*,readability-*,-bugprone-easily-swappable-parameters,-readability-function-cognitive-complexity,-readability-magic-numbers'
+WarningsAsErrors: ""
+HeaderFileExtensions:
+  - h
+ImplementationFileExtensions:
+  - c
+HeaderFilterRegex: ""
+ExcludeHeaderFilterRegex: ""
+FormatStyle: google
+CheckOptions:
+  - key: readability-identifier-naming.VariableCase
+    value: lower_case
+  - key: readability-identifier-naming.FunctionCase
+    value: lower_case

@@ -1,0 +1,13 @@
+{
+  "clang-format.executable": "clang-format-19",
+  "clangd.path": "clangd-19",
+  "C_Cpp.codeAnalysis.clangTidy.path": "clang-tidy-19",
+  "explorer.fileNesting.enabled": false,
+  "cSpell.words": ["WASD"],
+  "[c]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  }
+}

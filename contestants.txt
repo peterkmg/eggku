@@ -1,0 +1,15 @@
+Bucks Bunny,0
+Fluffy Tail,1
+Hoppy Paws,2
+Sunny Ears,3
+Twitch Nose,4
+Puffy Cheeks,5
+Bouncy Legs,6
+Whisker Winks,7
+Velvet Fur,8
+Daisy Hopper,9
+Carrot Crunch,10
+Misty Whiskers,11
+Lucky Feet,12
+Snuggle Bun,13
+Cuddly Fluff,14

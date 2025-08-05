@@ -1,0 +1,23 @@
+Index:
+  StandardLibrary: Yes
+
+Diagnostics:
+  ClangTidy:
+    FastCheckFilter: Loose
+
+Hover:
+  ShowAKA: Yes
+
+InlayHints:
+  BlockEnd: No
+  Designators: No
+  Enabled: No
+  ParameterNames: No
+  DeducedTypes: No
+
+---
+If:
+  PathMatch: ./build
+
+Index:
+  Background: Skip

@@ -1,0 +1,48 @@
+---
+Language: Cpp
+BasedOnStyle: Google
+
+UseTab: Never
+Standard: Latest
+TabWidth: 2
+IndentWidth: 2
+
+DerivePointerAlignment: false
+PointerAlignment: Left
+
+AlignAfterOpenBracket: Align
+AlignConsecutiveAssignments: true
+AlignConsecutiveBitFields: true
+AlignConsecutiveDeclarations: true
+AlignConsecutiveMacros: true
+AlignConsecutiveTableGenBreakingDAGArgColons: true
+AlignConsecutiveTableGenCondOperatorColons: true
+AlignConsecutiveTableGenDefinitionColons: true
+AlignConsecutiveShortCaseStatements:
+  Enabled: true
+  AcrossEmptyLines: false
+  AcrossComments: false
+  AlignCaseColons: true
+AlignArrayOfStructures: Right
+AlignEscapedNewlines: LeftWithLastLine
+AlignOperands: AlignAfterOperator
+AlignTrailingComments:
+  Kind: Always
+  OverEmptyLines: 2
+
+AllowShortBlocksOnASingleLine: Always
+AllowShortCaseExpressionOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortCompoundRequirementOnASingleLine: true
+AllowShortEnumsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AllowShortLambdasOnASingleLine: All
+AllowShortLoopsOnASingleLine: true
+
+BitFieldColonSpacing: Both
+
+ColumnLimit: 120
+
+SortIncludes: true
+SortUsingDeclarations: true
